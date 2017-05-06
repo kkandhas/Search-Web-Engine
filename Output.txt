@@ -1,0 +1,275 @@
+1) Giving a phrase as input 
+
+Enter the FULL URL of the webpage to be searched: 
+http://arstechnica.com/
+Enter the search word/phrase: 
+i should get a gaming mouse
+User's input after removing the stopwords : gaming mouse 
+ ****Visiting**** Received web page at http://arstechnica.com/
+Found (172) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com
+Found (172) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/search/
+Found (53) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/information-technology/
+Found (171) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/gadgets/
+Found (171) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/science/
+Found (172) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/tech-policy/
+Found (172) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/cars/
+Found (172) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/gaming/
+Found (171) links
+Searching for the word [gaming, mouse]...
+===> Success : Word [gaming, mouse] found at http://arstechnica.com/gaming/   			The keywords matches for this URL.
+
+ ****Visiting**** Received web page at http://arstechnica.com/civis/
+Found (88) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/#site-footer
+Found (172) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://video.arstechnica.com/
+Found (188) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/features/
+Found (160) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/reviews/
+Found (170) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/tag/ars-approved/
+Found (169) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/rss-feeds/
+Found (71) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/?view=mobile
+Found (172) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/about-us/
+Found (58) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/staff-directory/
+Found (134) links
+Searching for the word [gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/contact-us/
+Found (54) links
+Searching for the word [gaming, mouse]...
+
+**Done** Visited 20 web page(s)
+
+
+2) Giving a word as input 
+
+Enter the FULL URL of the webpage to be searched: 
+http://arstechnica.com/
+Enter the search word/phrase: 
+energy department
+User's input after removing the stopwords : energy department 
+ ****Visiting**** Received web page at http://arstechnica.com/
+Found (172) links
+Searching for the word [energy, department]...
+===> Success : Word [energy, department] found at http://arstechnica.com/					//The keywords matches for this URL
+
+ ****Visiting**** Received web page at http://arstechnica.com
+Found (172) links
+Searching for the word [energy, department]...
+===> Success : Word [energy, department] found at http://arstechnica.com					//The keywords matches for this URL
+
+ ****Visiting**** Received web page at http://arstechnica.com/search/
+Found (53) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/information-technology/
+Found (171) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/gadgets/
+Found (171) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/science/
+Found (172) links
+Searching for the word [energy, department]...
+===> Success : Word [energy, department] found at http://arstechnica.com/science/				//The keywords matches for this URL
+
+ ****Visiting**** Received web page at http://arstechnica.com/tech-policy/
+Found (172) links
+Searching for the word [energy, department]...
+===> Success : Word [energy, department] found at http://arstechnica.com/tech-policy/				//The keywords matches for this URL
+
+ ****Visiting**** Received web page at http://arstechnica.com/cars/
+Found (172) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/gaming/
+Found (171) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/civis/
+Found (88) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/#site-footer
+Found (172) links
+Searching for the word [energy, department]...
+===> Success : Word [energy, department] found at http://arstechnica.com/#site-footer				//The keywords matches for this URL
+
+ ****Visiting**** Received web page at http://video.arstechnica.com/
+Found (188) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/features/
+Found (160) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/reviews/
+Found (170) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/tag/ars-approved/
+Found (169) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/rss-feeds/
+Found (71) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/?view=mobile
+Found (172) links
+Searching for the word [energy, department]...
+===> Success : Word [energy, department] found at http://arstechnica.com/?view=mobile			//The keywords matches for this URL
+
+ ****Visiting**** Received web page at http://arstechnica.com/about-us/
+Found (58) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/staff-directory/
+Found (134) links
+Searching for the word [energy, department]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/contact-us/
+Found (54) links
+Searching for the word [energy, department]...
+
+**Done** Visited 20 web page(s)
+
+3) Not all the keywords are present in the pages , and if some of the keywords are present in the webpage then that webpage is also not selected .
+only the webpages which contain all the keywords are selected .
+
+Enter the FULL URL of the webpage to be searched: 
+http://arstechnica.com/
+Enter the search word/phrase: 
+i want to buy a gaming mouse 
+User's input after removing the stopwords : buy gaming mouse 
+ ****Visiting**** Received web page at http://arstechnica.com/
+Found (172) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com
+Found (172) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/search/
+Found (53) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/information-technology/
+Found (171) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/gadgets/
+Found (171) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/science/
+Found (172) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/tech-policy/
+Found (172) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/cars/
+Found (172) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/gaming/
+Found (171) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/civis/
+Found (88) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/#site-footer
+Found (172) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://video.arstechnica.com/
+Found (188) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/features/
+Found (160) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/reviews/
+Found (170) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/tag/ars-approved/
+Found (169) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/rss-feeds/
+Found (71) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/?view=mobile
+Found (172) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/about-us/
+Found (58) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/staff-directory/
+Found (134) links
+Searching for the word [buy, gaming, mouse]...
+
+ ****Visiting**** Received web page at http://arstechnica.com/contact-us/
+Found (54) links
+Searching for the word [buy, gaming, mouse]...
+
+**Done** Visited 20 web page(s)
